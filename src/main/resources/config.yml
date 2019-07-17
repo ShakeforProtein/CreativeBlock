@@ -1,0 +1,21 @@
+blockColouredItems: true
+blockUnsafeEnchantments: true
+verbose: true
+destroyItems: false
+newConfig: true
+
+badge: "&6[Creative Block]&r"
+error: " &cError:&r"
+
+ActiveWorlds:
+  - Creative
+  - Creatuve_The_End
+  - Creative_Nether
+  - Survival14Test
+
+useConfigLevels: true
+maxEnchantLevel: 50
+
+messages:
+  colouredItem: "This server does not allow the use of items with a coloured name."
+  unsafeEnchants: "This server does not allow items with enchantments above the maximum 'safe' levels set by Mojang"

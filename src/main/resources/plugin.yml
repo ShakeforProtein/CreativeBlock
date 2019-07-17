@@ -1,0 +1,10 @@
+name: CreativeBlock
+version: ${project.version}
+main: me.shakeforprotein.creativeblock.CreativeBlock
+api-version: 1.13
+authors: [ShakeforProtein]
+
+permissions:
+  creativeblock.bypass:
+    default: false
+    description: Allows player to have blocked items.
